@@ -1,0 +1,18 @@
+<HTML>
+<HEAD><TITLE>DATOS PERSONALES</TITLE></HEAD>
+<BODY BGCOLOR="YELLOW">
+<font color="black" face="Arial Black" size=6>DATOS DE COLEGIO </font>
+<hr>
+</hr>
+<font color="black" face="Arial Black" size=5>Nombre del establecimiento: Liceo Cristiano Cantares </font>
+<br>
+</br>
+<font color="black" face="Arial Black" size=5>Dirección: 12 Avenida C 3-03, Cdad. de Guatemala </font>
+<br>
+</br>
+<font color="black" face="Arial Black" size=5>Teléfono: 2221-1142 </font>
+<br>
+</br>
+<a href="https://www.facebook.com/liceocristianocantares/">Pagina de Facebook/a>
+</BODY>
+</HTML>
